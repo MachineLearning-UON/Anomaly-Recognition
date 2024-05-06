@@ -1,0 +1,114 @@
+Appendix 2: 
+Workshop Session Questionnaires
+Workshop Sessions: Problem Formulation questionnaire
+Objective: This questionnaire plays a vital role in developing a solution artefact for AMLR in customers transactions. Your valuable input will greatly assist us in evaluating the usability of the existing system, issues, problems currently facing by industry partners. These problem formulation questions help us define the specific issues and requirements related to abnormalities detection in financial transactions for the proposed research and served as a foundation for identifying the scope and objectives of our study.
+Confidentiality: Please be assured that any personal information you provide in this questionnaire will be treated with the utmost confidentiality.
+
+1.	Problem Definition:
+•	What are the specific challenges or issues your organization faces in detecting abnormalities in financial transactions?
+2.	Current Approaches:
+•	Can you describe the limitations or shortcomings of the existing methods or tools your organization uses for abnormalities detection?
+3.	Impact Assessment:
+•	What is the potential impact of undetected abnormalities in financial transactions on your organization, both in terms of financial losses and reputation?
+4.	Data Sources:
+•	How reliable and comprehensive are the data sources currently used for abnormalities detection?
+•	Are there any data quality issues that affect the accuracy of detection?
+5.	Operational Efficiency:
+•	How does the current abnormalities detection process impact the efficiency of your organization’s operations?
+•	Are there bottlenecks or delays caused by false positives or negatives?
+6.	Regulatory Compliance:
+•	Are there specific regulatory requirements or compliance standards that your organization must adhere to in the context of abnormalities detection?
+•	How do your current methods address these requirements?
+7.	User Needs:
+•	What are the primary needs and expectations of the customers involved in abnormalities detection?
+•	Are there any specific user pain points or challenges that need to be addressed?
+8.	Scalability:
+•	How does your organization plan to handle increasing transaction volumes and data complexity in the future?
+•	What scalability issues have you encountered with the current methods?
+9.	False Positives/Negatives:
+•	How do false positives and false negatives impact the effectiveness of abnormalities detection?
+•	Can you provide examples of cases where these have caused issues?
+10.	Resource Allocation:
+•	What resources, including personnel and time, are currently allocated to abnormalities detection?
+•	Are there resource constraints or inefficiencies in the current process?
+11.	Technology Adoption:
+•	How open is your organization to adopting new technologies, particularly DL-based solutions, for abnormalities detection?
+•	Are there any barriers to technology adoption that need to be overcome?
+12.	Risk Assessment:
+•	What is your organization’s risk tolerance concerning abnormalities in financial transactions?
+•	How does this tolerance influence the prioritization of abnormalities detection?
+13.	Competitive Advantage:
+•	Do you see abnormalities detection as a potential source of competitive advantage for your organization?
+•	How does it align with your long-term business strategies?
+14.	Ethical Considerations:
+•	Are there ethical considerations or potential biases associated with abnormalities detection that your organization is concerned about?
+•	How do you address these concerns?
+15.	Budget and Investment:
+•	What budget or investment considerations are relevant to addressing the challenges in abnormalities detection?
+•	Are there constraints or expectations regarding the cost of implementing solutions?
+
+
+
+
+
+
+
+
+
+
+
+
+Workshop Sessions: Evaluation questionnaire
+Objective: This questionnaire serves the crucial purpose of evaluating the effectiveness of our developed a novel DL-based model artefact. This innovative model is instrumental in detecting the abnormalities in customers transaction in financial organization. Your insights, through this evaluation, are invaluable in gauging the model’s usability, effectiveness and transparency which in turn will be instrumental in enhancing the overall quality of our research. These questions help us gather valuable insights and requirements from the individuals during the workshop. Please provide your honest opinions and insights in this questionnaire.
+Confidentiality: We assure you that any personal information shared in this questionnaire will be handled with the utmost confidentiality.
+Workshop Knowledge Elicitation Questions
+Model Evaluation
+Please rate the following aspects of the AI-oriented data analytics model on a scale of 1 to 5, with 1 being “Strongly Disagree” and 5 being “Strongly Agree”.
+1.	The proposed model effectively detects abnormal customer transactions.
+•	1 (Strongly Disagree) | 2 | 3 | 4 | 5 (Strongly Agree)
+2.	The model provides accurate results.
+•	1 (Strongly Disagree) | 2 | 3 | 4 | 5 (Strongly Agree)
+3.	The model is user-friendly and easy to navigate.
+•	1 (Strongly Disagree) | 2 | 3 | 4 | 5 (Strongly Agree)
+4.	The model provides clear explanations for its decisions.
+•	1 (Strongly Disagree) | 2 | 3 | 4 | 5 (Strongly Agree)
+Model Usage and Feedback
+5.	How frequently do you anticipate using this model in your work?
+•	Rarely
+•	Occasionally
+•	Regularly
+•	Frequently
+•	Not applicable
+6.	What specific features or functionalities of the model do you find most valuable? Why?
+7.	Have you encountered any challenges or limitations while using the model? If yes, please describe.
+8.	Do you have any suggestions for improving the model’s performance or user experience?
+Overall Satisfaction
+9.	Overall, how satisfied are you with a novel DL-based model?
+•	Very Dissatisfied
+•	Dissatisfied
+•	Neutral
+•	Satisfied
+•	Very Satisfied
+10.	Would you recommend this model to others in your field or organization?
+•	Yes
+•	No
+Additional Comments
+11.	Please share any additional comments, feedback, or insights about a novel DL-based model that you think would be valuable.
+
+Interviews followed by Evaluation workshop:
+12.	Can you describe the typical challenges or issues your organization faces related to detecting abnormalities in customer transactions?
+13.	What types of customer transaction data does your organization typically deal with, and how do you currently manage and analyze this data for abnormalities?
+14.	Are there any specific regulatory or compliance requirements in your industry that a novel DL-based model needs to adhere to when detecting abnormalities in customer transactions?
+15.	How do you envision a novel DL-based model assisting your organization in improving abnormality detection in customer transactions?
+16.	Are there any specific data sources or types of data that you believe are critical for the model’s success in your organization?
+17.	What key performance indicators (KPIs) or metrics do you use to evaluate the effectiveness of your abnormality detection processes, and how could the model align with or improve these metrics?
+18.	What are the potential risks or challenges you foresee in implementing a novel DL-based model for abnormality detection in customer transactions?
+19.	Do you have any specific requirements or preferences concerning the interpretability of the model’s decisions, given regulatory or internal policies?
+20.	How do you see the model integrating with your existing systems and workflows for customer transaction management?
+21.	Can you describe any successful practices or strategies your organization has employed in the past to enhance transaction security?
+22.	Are there any specific use cases or scenarios within your industry where a novel DL-based model could provide the most value?
+23.	What kind of support, resources, or expertise do you anticipate needing from the development team during the implementation and integration of the model?
+
+
+
+
